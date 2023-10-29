@@ -1,0 +1,4 @@
+"AadClientId": "74cb0a8a-aafd-4cf7-bab3-2ef6cd3498bb",
+  "AadSecret": "saN8Q~T9RYTY6N2li9zxHEQlSHnzDH-7uyDR4aR~",
+  "AadTenantDomain": "M365B114172.onmicrosoft.com",
+  "AadTenantId": "d644721c-32e8-490f-8db0-163a8d948cc4"
